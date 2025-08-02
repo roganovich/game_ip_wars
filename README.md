@@ -1,6 +1,8 @@
 # IP Wars: Ping to Kill!  🕹️🔍
 Консольная игра в стиле 90х годов, где два противника сражаются в консольных панелях Linux
 
+![IP Wars: Ping to Kill!](https://github.com/roganovich/game_ip_wars/blob/main/public/img/logo.png)
+
 ## 🚀 Особенности
 - 🔎 Поиск IP по маске (команда `scan`)
 - 🏓 Проверка наличия IP в списке (команда `ping`)
